@@ -1,5 +1,7 @@
 # Разработка пользовательских интерфейсов
 
+[Мит](meet.jit.si/32isr)
+
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1d3REMHieLKK_nj7TcN7gY8_1CdcXSYFV/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
