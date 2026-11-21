@@ -30,7 +30,7 @@
 
 - [Git](https://ktkv-presentations.github.io/algos-8/)
 - [Web-приложения и web-протоколы](https://ktkv-presentations.github.io/uidev-1/)
-- ...
+- [JS](https://ktkv-presentations.github.io/uidev-11/)
 
 ### Лабораторные
 
