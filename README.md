@@ -1,5 +1,8 @@
 # Разработка пользовательских интерфейсов
 
+<img width="330" height="395" alt="image" src="https://github.com/user-attachments/assets/b2320010-0618-46e8-821a-d32da2bafb07" />
+
+
 [Jitsi](https://meet.jit.si/32isr)
 [Телемост](https://telemost.yandex.ru/j/01999601923331)
 
